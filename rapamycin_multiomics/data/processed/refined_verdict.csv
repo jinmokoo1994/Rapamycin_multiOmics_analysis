@@ -1,0 +1,7 @@
+Hypothesis,Predicted,Observed,p,Verdict,Interpretation
+H1 translation/ribosome mRNA,DOWN,UP,1.3374077564833108e-17,"REFUTED (significant, opposite direction)",Ribosomal mRNAs are UP in liver (compensatory) — suppression is NOT transcriptional
+H2 autophagy mRNA,UP,UP,0.4207970292379377,INCONCLUSIVE,Set too small (n=13) / underpowered — no call
+H3 oxidative phosphorylation mRNA,UP,UP,2.5034308620481546e-29,SUPPORTED,Robust; matches the published liver lifespan-extension signature
+H4 ribosomal protein,DOWN,DOWN,1.639046838722918e-17,SUPPORTED,"Protein-level suppression (median -0.17); FDR/eBayes/reference-normalised, time-consistent"
+H5 heme/lymphoid > solid sensitivity,DOWN,DOWN,3.35242426264094e-08,SUPPORTED,Pre-registered lineage test (effect r=0.28) replaces anecdotal top-15 + circular SU-DHL link
+H6 cross-omics concordance,CONCORDANT,DISCORDANT,1.059068672061396e-14,"REFUTED (significant, opposite direction)",Transcript↑/protein↓ = translational control; global rho=0.03. Naive convergence refuted.

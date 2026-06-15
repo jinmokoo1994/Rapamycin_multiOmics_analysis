@@ -1,0 +1,5 @@
+layer,dataset,source,access
+Target/mechanism,ChEMBL CHEMBL413 (rapamycin/sirolimus),EMBL-EBI ChEMBL v34,REST API
+Transcriptomics,GSE131754 mouse liver RNA-seq (RAP=12 vs CON=12),NCBI GEO; Tyshkovskiy 2019 Cell Metab 10.1016/j.cmet.2019.06.018,GEO FTP
+Pharmacogenomics,GDSC1 Temsirolimus IC50,Therapeutics Data Commons (DrugRes),PyTDC
+Proteomics,PXD067812 SU-DHL-4 rapamycin TMT-18plex,PRIDE/ProteomeXchange,PRIDE FTP (mzTab)

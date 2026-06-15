@@ -1,0 +1,11 @@
+assay,condition,sample
+1,DMSO,DMSO_1
+2,DMSO,DMSO_2
+3,DMSO,DMSO_3
+4,Rapamycin_24h,Rapa24h_1
+5,Rapamycin_24h,Rapa24h_2
+6,Rapamycin_24h,Rapa24h_3
+7,Rapamycin_48h,Rapa48h_1
+8,Rapamycin_48h,Rapa48h_2
+9,Rapamycin_48h,Rapa48h_3
+10,MasterMix,MasterMix

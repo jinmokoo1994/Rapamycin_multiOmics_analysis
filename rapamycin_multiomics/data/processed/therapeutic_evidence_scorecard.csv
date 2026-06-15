@@ -1,0 +1,5 @@
+Layer,Dataset,Key finding,Interpretation
+Target engagement,ChEMBL CHEMBL413,"Approved mTOR inhibitor (FKBP12-mediated), low-nM potency",Mechanism established
+Transcriptome (longevity),GSE131754 mouse liver,mTOR axis coordinately down (24/33 genes; signed-rank p=7.0e-04),Consistent with lifespan signature
+Proteome (oncology),PXD067812 SU-DHL-4,365 proteins down; ribosomal/translation machinery reduced,Mechanism confirmed at protein level
+Pharmacogenomics,GDSC1 Temsirolimus,Growth inhibition across 911 cancer lines,Anti-proliferative therapeutic effect
